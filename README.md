@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola 👋, soy Joaquín Candia
 
-<!--
-**joaquincandia/joaquincandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi repositorio principal. Aquí comparto proyectos, scripts y experimentos relacionados con:
 
-Here are some ideas to get you started:
+- 💻 **Ingeniería de Datos:** análisis, ETL, BigQuery, Oracle, Python, SQL.
+- 🌐 **Web & Curiosidades Tech:** exploración de cómo funciona la web, automatización y scraping.
+- 🔐 **Hacking Ético & Pentesting:** pruebas de seguridad, aprendizaje y experimentos de ciberseguridad.
+- 🚀 **Exploración de nuevas tecnologías:** siempre probando herramientas y frameworks recientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- **Data Projects:** análisis de datasets, pipelines, reportes automáticos.
+- **Pentest Labs:** scripts y ejercicios de seguridad ética.
+- **Web Experiments:** proyectos que muestran cómo funcionan APIs, scraping y automatización.
+
+## Contacto
+- LinkedIn: [Joaquin Candia](https://www.linkedin.com/in/joaquin-caandia)
+- Email: joaquin.candia.marquez@outlook.com
+- Twitter / GitHub: [@joaquincandia](https://github.com/joaquincandia)
+
+> Siempre aprendiendo y compartiendo. Siéntete libre de explorar y colaborar. 🚀
+
