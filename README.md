@@ -14,8 +14,7 @@ Bienvenido a mi repositorio principal. Aquí comparto proyectos, scripts y exper
 
 ## Contacto
 - LinkedIn: [Joaquin Candia](https://www.linkedin.com/in/joaquin-caandia)
-- Email: joaquin.candia.marquez@outlook.com
-- Twitter / GitHub: [@joaquincandia](https://github.com/joaquincandia)
+- GitHub: [@joaquincandia](https://github.com/joaquincandia)
 
 > Siempre aprendiendo y compartiendo. Siéntete libre de explorar y colaborar. 🚀
 
